@@ -1,0 +1,2 @@
+# Airline-Management-System
+This project relates to my second semester OOP course final project. This project is developed by me with the help of JAVA and MySQL. In this project, we can book customer tickets, as well as see their traveling history and also the payment history. We can also see the schedules of the flights their class and capacity. Now I am a JavaScript developer and now I have not related to JAVA.
